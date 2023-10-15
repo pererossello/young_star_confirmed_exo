@@ -4,7 +4,6 @@
 
 This repository contains work in progress for an analysis of young stars with confirmed transiting exoplanets, using data from the Exoplanet.eu database. We're focusing on young stars due to their high level of variability and the implications this has for exoplanet detection and characterization.
 
-## Installation
 
 Clone the repository:
 
