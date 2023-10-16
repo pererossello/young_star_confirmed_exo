@@ -8,13 +8,9 @@ This project is a part of a larger team effort for the course "Introducción a l
 
 This repository contains work in progress for an analysis of young stars with confirmed transiting exoplanets. We're focusing on young stars due to their high level of variability, which has significant implications for exoplanet detection and characterization.
 
-## Usage
-
 1. Open the Jupyter notebook `counting_young_exo_with_error.ipynb` to view the analysis.
 2. Run the cells to generate plots and figures, which will be saved in the `figures` folder.
 3. Results, such as young star data, will be saved in the `results` folder.
-
-## Utility Functions
 
 - `utils.py`: Contains various utility functions that assist in data manipulation and calculations.
 - `plot_utils.py`: Houses functions specifically designed for plotting and visualization.
@@ -25,8 +21,4 @@ This project is currently under active development. Expect frequent updates and 
 
 ## Author Contributions
 
-- **Alice Johnson**: Initial setup, Data Collection
-- **Bob Williams**: Data Analysis, Plotting
-- **Charlie Brown**: Jupyter Notebook maintenance, Documentation
-- **Diana Smith**: Code Review, Testing
-
+This repository has been possible thanks to the contributions of David Mirabal, Urma González, Iris Ortega and Pere Rosselló.
