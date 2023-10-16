@@ -2,7 +2,7 @@
 
 ## Description
 
-This research project aims to analyze the distribution and characteristics of confirmed exoplanets orbiting young stars. The focus is on host star ages, error margins in these ages, and methods used for detection. We utilize data from the ExoplanetEU and NASA Exoplanet Archive and employ Python for data analysis and visualization.
+This repository contains work in progress for an analysis of young stars with confirmed transiting exoplanets, using data from the Exoplanet.eu database. We're focusing on young stars due to their high level of variability and the implications this has for exoplanet detection and characterization. We utilize data from the ExoplanetEU and NASA Exoplanet Archive and employ Python for data analysis and visualization.
 
 
 ## Usage
@@ -33,3 +33,6 @@ This research project aims to analyze the distribution and characteristics of co
 
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
 
+## Status
+
+This project is currently under active development. Expect frequent updates, and please refer to the Issues section for upcoming features, known bugs, or tasks up for grabs.
