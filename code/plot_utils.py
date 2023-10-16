@@ -21,8 +21,6 @@ def simp_figure(
         layout=layout,
     )
 
-
-
     ax = fig.subplots()
 
     if theme == 'dark':
